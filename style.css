@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    margin: 100px auto;
+    font-size: 30px;
+    background-color: aquamarine;
+}
+input,button{
+    font-size: 28px;
+    border-radius: 20px;
+}
